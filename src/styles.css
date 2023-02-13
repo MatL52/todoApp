@@ -2,6 +2,11 @@ body {
   font-family: sans-serif;
 }
 
+*　 {
+  margin: 0;
+  padding: 0;
+}
+
 .list_row {
   display: flex;
 }
