@@ -1,6 +1,11 @@
 body {
   font-family: sans-serif;
 }
+
+.list_row {
+  display: flex;
+}
+
 .input_area {
   background-color: aqua;
   width: 400px;
